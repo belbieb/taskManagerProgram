@@ -1,0 +1,12 @@
+admin, Assign initial tasks, Register Users with taskManager.py, 10 October 2019, 20 October 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2019, 25 October 2019, No
+Alan Sherer, Retirement, Retire from football, 27 February 2021, 23 October 2023, No
+James Bond, 007, License to kill, 28 February 2021, 02 October 2030, Yes
+Olivier Giroud, Number18, a center forward (striker), 28 February 2021, 30 May 2022, No
+Olivier Giroud, Retirement, Must retired soon, 28 February 2021, 30 May 2022, No
+kiid, 80s ultra intelligent car, Assist your owner on his peace keeping mission, 08 March 2021,30 May 2022, Yes
+kiid, Fancy car, Very advanced for its time, 08 March 2021, 30 June 2090, Yes
+Johna, Reporter, Go to Paris, 22 June 2021, 20 March 2022, No
+Joe, USA President, Attend G7, 22 June 2021, 20 July 2022, No
+Marc, Meteo Journo, report weather, 22 June 2021, 20 June 2030, No
+Marc, Irish, The world's sexiet man alive, 22 June 2021, 20 March 2030, Yes

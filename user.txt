@@ -1,0 +1,20 @@
+not-working,notWorking
+onceagain,onceAgain
+checking,chec
+use-vsc,vsc
+second-Attempt,second
+third-Attempt,third
+admin,adm1n
+thiery,thierry
+again,again
+Alan Sherer,alan
+Olivier Giroud,Oli
+kiid,kiid
+James Bond,007
+jim,jim
+again,agaiN
+Johna,jhb
+Marc,man
+Joe,biden
+Jon,you
+Ben,jon
